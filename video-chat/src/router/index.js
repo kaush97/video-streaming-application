@@ -5,6 +5,7 @@ import Logs from '../components/Logs'
 import Rooms from '../components/Rooms'
 import Video from '../components/Video'
 import AddRoom from '../components/AddRoom'
+
 Vue.use(VueRouter)
 
 const routes = [

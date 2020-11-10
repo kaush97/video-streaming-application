@@ -10,7 +10,7 @@ This will guide you through generating an access token for Twilio using Node.js.
 - Clone the repository to your system by running the command:
 
 ```sh
-git clone https://github.com/dongido001/TwilioNodeServer.git
+git clone https://github.com/kaush97/video-streaming-application.git
 ```
 
 - cd into the project folder and install all packages:
@@ -43,6 +43,6 @@ Run the app
 
 ## Example use case
 
-To generate an access token, visit http://localhost:3000/token?identity=dongido
+To generate an access token, visit http://localhost:3000/token?identity=kaushal
 
-In the case, `dongido` is the identity of the user we want to generate an access token for.
+In the case, `kaushal` is the identity of the user we want to generate an access token for.

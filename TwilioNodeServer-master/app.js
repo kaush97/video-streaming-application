@@ -1,13 +1,4 @@
 'use strict';
-
-/**
- * Load Twilio configuration from .env config file - the following environment
- * variables should be set:
- * process.env.TWILIO_ACCOUNT_SID
- * process.env.TWILIO_API_SID
- * process.env.TWILIO_API_SECRET
- */
-
  
 var http = require('http');
 var AccessToken = require('twilio').jwt.AccessToken;
